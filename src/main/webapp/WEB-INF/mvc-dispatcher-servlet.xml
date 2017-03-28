@@ -14,6 +14,7 @@
     </bean>
 
 
+
     <!-- Register repository, entity manager factory and transaction manager -->
 
     <jpa:repositories base-package="com.springapp.mvc"/>
